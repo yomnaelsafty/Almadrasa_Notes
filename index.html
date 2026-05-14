@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Almadrasa-Notes</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <aside class="sidebar">
+        <button class="close-sidebar">✕</button>
+        <img src="./images/Logo.png" alt="almadrasa logo" class="logo" />
+        <div class="search-wrapper">
+          <img src="./images/Frame (1).png" alt="search" class="search-icon" />
+          <input type="text" placeholder="Search" class="search-input" />
+        </div>
+        <nav class="nav">
+          <div id="notes" class="nav-link active">Notes</div>
+          <div id="add" class="nav-link">Add Notes</div>
+        </nav>
+      </aside>
+      <div class="mob__mood">
+        <header class="header">
+          <div class="burger-manu">
+            <div class="burger-manu__bar"></div>
+            <div class="burger-manu__bar"></div>
+            <div class="burger-manu__bar third"></div>
+          </div>
+          <img
+            src="./images/Logo.png"
+            alt="almadrasa logo"
+            class="logo"
+            id="mob_logo"
+          />
+          <button class="header-search"></button>
+          <div class="search-wrapper__header">
+            <img
+              src="./images/Frame (1).png"
+              alt="search"
+              class="search-icon"
+            />
+            <input type="text" placeholder="Search" class="mob_search-input" />
+          </div>
+        </header>
+        <main class="note-content" id="app"></main>
+      </div>
+    </div>
+    <script type="module" src="./scripts/script.js"></script>
+  </body>
+</html>
