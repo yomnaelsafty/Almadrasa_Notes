@@ -21,15 +21,14 @@ A fully responsive notes web application built with **Vanilla JavaScript**, desi
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop](./screenshots/desktop/Screenshot2026-05-14142158.png)
-![Desktop](./screenshots/desktop/Screenshot2026-05-14142245.png)
-![Desktop](./screenshots/desktop/Screenshot2026-05-14142637.png)
+![Desktop](./screen%20shots/desktop/Screenshot%202026-05-14%20142158.png)
+![Desktop](./screen%20shots/desktop/Screenshot%202026-05-14%20142245.png)
+![Desktop](./screen%20shots/desktop/Screenshot%202026-05-14%20142637.png)
 
 ### Mobile View
-![Mobile](./screenshots/mobile/Screenshot2026-05-14142358.png)
-![Mobile](./screenshots/mobile/Screenshot2026-05-14142509.png)
-![Mobile](./screenshots/mobile/Screenshot2026-05-14142509.png)
-
+![Mobile](./screen%20shots/mobile/Screenshot%202026-05-14%20142358.png)
+![Mobile](./screen%20shots/mobile/Screenshot%202026-05-14%20142509.png)
+![Mobile](./screen%20shots/mobile/Screenshot%202026-05-14%20142555.png)
 ---
 
 ## 🛠️ Built With
