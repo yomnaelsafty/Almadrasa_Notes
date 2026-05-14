@@ -23,12 +23,10 @@ A fully responsive notes web application built with **Vanilla JavaScript**, desi
 ### Desktop View
 ![Desktop](./screen%20shots/desktop/Screenshot%202026-05-14%20142158.png)
 ![Desktop](./screen%20shots/desktop/Screenshot%202026-05-14%20142245.png)
-![Desktop](./screen%20shots/desktop/Screenshot%202026-05-14%20142637.png)
 
 ### Mobile View
 ![Mobile](./screen%20shots/mobile/Screenshot%202026-05-14%20142358.png)
 ![Mobile](./screen%20shots/mobile/Screenshot%202026-05-14%20142509.png)
-![Mobile](./screen%20shots/mobile/Screenshot%202026-05-14%20142555.png)
 ---
 
 ## 🛠️ Built With
